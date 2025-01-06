@@ -1,7 +1,8 @@
 <Project>
     <PropertyGroup>
         <TargetFramework>net8.0</TargetFramework>
-        <Nullable>enable</Nullable>
-        <ImplicitUsings>false</ImplicitUsings>
+        <Nullable>disable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>		
+		<ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
     </PropertyGroup>
 </Project>
